@@ -12,7 +12,7 @@ AeroRescue Swarm addresses the critical bottleneck of delayed manual triage and 
 *   Simulated FastMCP Mock Server for telemetry input.
 
 ### 💻 Public Codebase & Links
-*   **Public Notebook (Kaggle):** [YAHAN APNA KAGGLE NOTEBOOK KA PUBLIC URL PASTE KAR]
-*   **Project Demo Video:** [YAHAN YOUTUBE DEMO LINK PASTE KAR]
+*   **Public Notebook (Kaggle):** (https://www.kaggle.com/code/trivamjain/aerorescue-swarm-multi-agent-capstone-project)
+*   **Project Demo Video:** [https://youtu.be/A39VpVFKEoQ?si=jSg-wtu3qI62cVdC]
 
 This project demonstrates the powerful application of multi-agent intelligence in time-sensitive rescue operations.
